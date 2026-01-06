@@ -288,6 +288,10 @@ input, select, textarea {
 
 		}
 
+.containermono {
+	padding: 20px 40px 40px;
+  max-width: 640px;
+}
 .container__image {
   display: inline-block;
   vertical-align: top;
