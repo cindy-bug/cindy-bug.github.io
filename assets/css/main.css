@@ -288,6 +288,22 @@ input, select, textarea {
 
 		}
 
+.container__image {
+  display: inline-block;
+  vertical-align: top;
+  width: 46%;
+  margin: 20px 30px 0 0;
+}
+.container__text {
+  display: inline-block;
+  width: 46%;
+}
+@media (max-width: 620px) {
+  .container__text {
+    width: 100%;
+  }
+}
+
 /* Row */
 
 	.row {
