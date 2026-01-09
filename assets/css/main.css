@@ -2217,7 +2217,7 @@ input, select, textarea {
 		background-size: auto, cover;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
-		padding: 14em 0 14em 0;
+		padding: 20em 0 14em 0;
 		text-align: center;
 		#color: #fff;
 	}
@@ -2355,7 +2355,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 12em 0 12em 0;
+				padding: 19em 0 12em 0;
 			}
 
 		/* Main Sections */
@@ -2403,7 +2403,7 @@ input, select, textarea {
 
 			#header {
 				margin: 0 !important;
-				padding: 8em 2em 8em 2em;
+				padding: 14em 2em 8em 2em;
 			}
 
 				#header header p {
@@ -2504,7 +2504,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 20px 6em 20px;
+				padding: 14em 20px 6em 20px;
 			}
 
 				#header > header {
