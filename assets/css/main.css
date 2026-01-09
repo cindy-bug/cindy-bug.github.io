@@ -2284,7 +2284,7 @@ input, select, textarea {
 			.main > .content.style1 {
 				position: relative;
 				margin: 0;
-				background-image: url("images/overlay.png"), url("../../images/header.jpg");
+				background-image: url("images/overlay.png"), url("../../images/Capture.png");
 				background-size: auto, cover;
 				background-position: top left, center center;
 				background-repeat: repeat, no-repeat;
