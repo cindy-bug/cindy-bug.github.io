@@ -1623,27 +1623,37 @@ input, select, textarea {
 /* Icons */
 
 .cindyicon18 {
-    background: url("../../images/framemay18white.png");
-	background-size: 100px 100px;
-    display: inline-block;
+	display: inline-block;
 	position: relative;
+    background: url("../../images/framemay18white.png");
+	background-size: contain;
+	width: 8em;
+	height: 14em;
+	background-repeat: no-repeat;
+}
 	
     /* Other styles here */
 }
 
 .cindyicon19 {
-    background: url("../../images/framemay19white.png");
-    height: 20px;
-    width: 20px;
-    display: block;
+	display: inline-block;
+	position: relative;
+    background: url("../../images/framemay18white.png");
+	background-size: contain;
+	width: 10em;
+	height: 18em;
+	background-repeat: no-repeat;
     /* Other styles here */
 }
 
 .cindyicon20 {
-    background: url("../../images/framemay20white.png");
-    height: 20px;
-    width: 20px;
-    display: block;
+  	display: inline-block;
+	position: relative;
+    background: url("../../images/framemay18white.png");
+	background-size: contain;
+	width: 8em;
+	height: 14em;
+	background-repeat: no-repeat;
     /* Other styles here */
 }
 
