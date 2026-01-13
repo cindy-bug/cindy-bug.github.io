@@ -1624,10 +1624,10 @@ input, select, textarea {
 
 .cindyicon18 {
     background: url("../../images/framemay18white.png");
+	background-size: 100px 100px;
     display: inline-block;
 	position: relative;
-	width: 2em;
-	height: 2em;
+	
     /* Other styles here */
 }
 
