@@ -1651,8 +1651,8 @@ input, select, textarea {
 	position: relative;
     background: url("../../images/framemay18white.png");
 	background-size: contain;
-	width: 8em;
-	height: 14em;
+	width: 10em;
+	height: 18em;
 	background-repeat: no-repeat;
     /* Other styles here */
 }
