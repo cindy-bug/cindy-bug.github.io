@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manufacturing+Consent&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 /*
 	Tessellate by HTML5 UP
@@ -212,6 +213,7 @@ input, select, textarea {
 
 	p {
 		text-align: justify;
+		font-family: 'Tinos-regular';
 	}
 
 	header {
