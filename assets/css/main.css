@@ -2075,11 +2075,12 @@ input, select, textarea {
 		position: relative;
 		display: inline-block;
 		background: #3d3d3d;
-		padding: 0.85em 3em 0.85em 3em;
+		padding: 0.5em 2em 0.5em 2em;
 		border-radius: 0.25em;
 		cursor: pointer;
 		border: 0;
 		color: #fff;
+		font-size: xxx-large;
 		text-align: center;
 		text-decoration: none;
 	}
