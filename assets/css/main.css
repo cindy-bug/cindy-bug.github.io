@@ -295,7 +295,7 @@ input, select, textarea {
 .container__image {
   display: inline-block;
   vertical-align: top;
-  width: 96%;
+  width: 80%;
   margin: 0px 0px 0 0;
 }
 .container__text {
