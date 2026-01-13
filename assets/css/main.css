@@ -216,6 +216,7 @@ input, select, textarea {
 		text-align: justify;
 		font-family: "Roboto Condensed", sans-serif;
 		color: whitesmoke;
+		font-size: smaller;
 	}
 
 	header {
