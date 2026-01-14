@@ -93,7 +93,7 @@ input, select, textarea {
 
 	body {
 		background: #F8F8F8;
-		font-family: 'Manufacturing Consent', sans-serif;
+		font-family: 'myFont';
 		font-weight: 300;
 		font-size: 17pt;
 		line-height: 1.75em;
@@ -118,7 +118,7 @@ input, select, textarea {
 	}
 
 	input, textarea, select {
-		font-family: 'Manufacturing Consent', sans-serif;
+		font-family: 'myFont';
 		font-weight: 300;
 		font-size: 17pt;
 		line-height: 1.75em;
