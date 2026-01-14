@@ -2,7 +2,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Manufacturing+Consent&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
-
+@font-face {
+  font-family: myFont; /* set name */
+  src: url(The Centurion.ttf); /* url of the font */
+}
 /*
 	Tessellate by HTML5 UP
 	html5up.net | @ajlkn
