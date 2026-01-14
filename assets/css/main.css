@@ -1638,15 +1638,14 @@ input, select, textarea {
 }
 	
     /* Other styles here */
-}
 
 .cindyicon19 {
 	display: inline-block;
 	position: relative;
-    background: url("../../images/framemay18white.png");
+    background: url("../../images/framemay19white.png");
 	background-size: contain;
-	width: 8em;
-	height: 14em;
+	width: 10em;
+	height: 18em;
 	background-repeat: no-repeat;
     /* Other styles here */
 }
@@ -1654,10 +1653,10 @@ input, select, textarea {
 .cindyicon20 {
   	display: inline-block;
 	position: relative;
-    background: url("../../images/framemay18white.png");
+    background: url("../../images/framemay20white.png");
 	background-size: contain;
-	width: 10em;
-	height: 18em;
+	width: 8em;
+	height: 14em;
 	background-repeat: no-repeat;
     /* Other styles here */
 }
