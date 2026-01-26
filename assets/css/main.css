@@ -2334,6 +2334,12 @@ input, select, textarea {
 			}
 
 			.main > .content.style2 {
+				position: relative;
+				margin: 0;
+				background-image: url("images/overlay.png"), url("../../images/cloud-kingdom-opening-1600blackback.PNG");
+				background-size: auto, cover;
+				background-position: top left, center center;
+				background-repeat: repeat, no-repeat;
 				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/EastMoon-Artwork.jpg"), linear-gradient(45deg, #384955, #655361, #85505f);
 			}
 
