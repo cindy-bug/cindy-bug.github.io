@@ -2563,7 +2563,7 @@ input, select, textarea {
 		/* Sections/Article */
 
 			section, article {
-				margin: 0 0 1.5em 0 !important;
+				margin: 0 0 0em 0 !important;
 			}
 
 			.row > section, .row > article {
