@@ -2286,6 +2286,39 @@ input, select, textarea {
 			padding-top: 10em;
 		}
 
+#header2 {
+		position: relative;
+		margin: 0;
+		background-image: url("images/overlay.png"), url("images/final.png");
+		background-size: auto, cover;
+		background-position: top left, center center;
+		background-repeat: repeat, no-repeat;
+		padding: 20em 0 14em 0;
+		text-align: center;
+		#color: #000;
+	}
+
+		#header2 header h1 {
+			color: #000;
+			font-size: 5em;
+			line-height: 1.25em;
+			margin-bottom: 0;
+		}
+
+		#header2 header p {
+			color: #B5331B;
+			margin-top: 1.25em;
+			font-weight: 100;
+			padding: 0;
+			font-size: 1.25em;
+			line-height: 1.5em;
+			text-align: center;
+		}
+
+		#header2 footer {
+			padding-top: 10em;
+		}
+
 /* Main Sections */
 
 	.main {
