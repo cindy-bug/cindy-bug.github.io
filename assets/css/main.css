@@ -2336,7 +2336,7 @@ input, select, textarea {
 			.main > .content.style2 {
 				position: relative;
 				margin: 0;
-				background-image: url("images/overlay.png"), url("../../images/cloud-kingdom-opening-1600blackback.PNG");
+				background-image: url("images/overlay.png"), url("nope");
 				background-size: auto, cover;
 				background-position: top left, center center;
 				background-repeat: repeat, no-repeat;
@@ -2344,7 +2344,13 @@ input, select, textarea {
 			}
 
 			.main > .content.style3 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #5f796b, #3a4e59, #2f394e);
+				position: relative;
+				margin: 0;
+				background-image: url("images/overlay.png"), url("images/final.PNG");
+				background-size: auto, cover;
+				background-position: top left, center center;
+				background-repeat: repeat, no-repeat;
+				/*background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #5f796b, #3a4e59, #2f394e);*/
 			}
 
 			.main > .content.style4 {
